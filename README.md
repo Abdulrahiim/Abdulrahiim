@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdulrahim Khan
 
-### ⚡ Electrical Engineering Student | Medina, Saudi Arabia 🇸🇦
+### ⚡ Electrical Engineer | Medina, Saudi Arabia 🇸🇦
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=EE+Student;RF+%26+Radar+Enthusiast;Embedded+Systems;Building+Real+Projects&center=true&width=500&height=45">
@@ -9,7 +9,6 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Electrical Engineering student from Medina  
 - 📡 Interested in RF, RADAR systems, and Embedded Systems  
 - 💻 Also into software and practical engineering projects  
 - 💡 I focus on real-world applications, not just theory  
