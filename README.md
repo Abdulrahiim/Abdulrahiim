@@ -33,11 +33,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,matlab" />
 </p>
-
----
-
-## 📡 Engineering Interests
-- RF Systems  
-- RADAR Technology  
-- Signal Processing  
-- Embedded Systems  
