@@ -3,7 +3,7 @@
 ### ⚡ Electrical Engineer | Medina, Saudi Arabia 🇸🇦
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=EE+Student;RF+%26+Radar+Enthusiast;Embedded+Systems;Building+Real+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineer;Signal+Processing+%26+Embedded+Systems;RF+%26+Radar+Technologies;C%2B%2B+Python+MATLAB;GNU+Radio+%7C+SDR&center=true&width=550&height=45">
 </p>
 
 ---
