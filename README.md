@@ -31,7 +31,8 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,flutter,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/GNU_Radio_Logo.svg" height="48" />
 </p>
 
 ---
